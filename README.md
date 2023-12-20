@@ -14,7 +14,7 @@ O código tem um loop principal que verifica a disponibilidade de dados na porta
 
 3. Função de Movimento:
 
-    • Criamos uma função chamada movimento para movimentar gradualmente um servo para uma posição específica.[
+    • Criamos uma função chamada movimento para movimentar gradualmente um servo para uma posição específica.
    
     • A função recebe dois parâmetros: o número do servo (qualServo) e a posição final desejada (pos_final).
    
